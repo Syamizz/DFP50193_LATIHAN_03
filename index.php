@@ -10,11 +10,11 @@
     <h1>ASAS PHP</h1>
 
     <?php
-        $namapelajar = 'Ali';
+        $namapelajar = 'Syamil';
          echo '<h2>Hello</h2>'; #output
         $hadir = false;
         $umur= 20;
-        
+        $nokp = '011114080111';
         echo 20.21;
 
         $x = 100; #integer
